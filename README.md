@@ -4,6 +4,28 @@ An enterprise-grade, production-ready **Retrieval-Augmented Generation (RAG)** p
 
 ---
 
+## Screenshots
+
+### Login Page
+![Login](screenshots/01_login.png)
+
+### AI Chat Interface
+![Chat](screenshots/02_chat.png)
+
+### Knowledge Base — Documents
+![Documents](screenshots/03_documents.png)
+
+### Analytics Dashboard
+![Analytics](screenshots/04_analytics.png)
+
+### Admin Panel — User Management
+![Admin](screenshots/06_admin.png)
+
+### Register Page
+![Register](screenshots/07_register.png)
+
+---
+
 ## Architecture Overview
 
 ```
